@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi!
+**Hi!**
 
 I am Paweł Kuś and I am a PhD Candidate at Silesian University of Technology in Gliwice, Poland. I'm bioinformatician, data scientist, and big fan of all natural sciences. On this page I want to share some of my work with broader scientific community.
 
