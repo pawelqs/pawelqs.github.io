@@ -1,1 +1,3 @@
-# Welcome to my website!
+# pawelqs.github.io
+
+A repository for my personal webpage
