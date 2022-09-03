@@ -6,7 +6,7 @@ permalink: /software/
 
 # R packages
 
-## clonalityParsers
+## [clonalityParsers](https://github.com/pawelqs/clonalityParsers) <img src="https://github.com/pawelqs/clonalityParsers/raw/master/man/figures/logo.png" align="right" height="120" />
 
 R package providing funcitions parsing output of mutation callers into a input format of tools identifying sublonal tumor structure from WGS/WES data. 
 
