@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: pawelqs's homepage
+title: Bioinformatics & Data Science Blog!
 email: pawel.kus@polsl.pl
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website! This is a place where I want to share news, ideas,
