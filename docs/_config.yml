@@ -107,6 +107,8 @@ author:
   name             : "Paweł Kuś"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : <b>Bioinformatician - Computational Biologist - Phd Researcher</b>
+                     
+                     
                      Passionate about all natural sciences. Analysis of the Next Generation Sequencing data and mathematical 
                      modeling of cancer evolution.
   location         : "Warsaw, Poland"
