@@ -3,9 +3,9 @@ title: About me<br><br><br><br><br><br><br><br><br><br><br><br>
 layout: single
 permalink: /about-me/
 header:
-  #overlay_image: /assets/images/
-  #overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: /assets/images/galdhopiggen.jpeg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "**Galdhøpiggen, Norway, 2 469 m**"
 ---
 
 **Hi!**
