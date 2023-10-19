@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Software
+layout: splash
 permalink: /software/
 ---
 
