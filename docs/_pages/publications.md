@@ -1,7 +1,7 @@
 ---
-title: Papers
+title: Publications
 layout: single
-permalink: /papers/
+permalink: /publications/
 header:
   overlay_image: /assets/images/eugenia-ai-lyNO9axFGBE-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
