@@ -25,9 +25,9 @@ author_profile: true
 
 ## Conference abstracts
 
-- **Kuś P.**, Chen H., Wei P., Czerniak B., Kimmel M., *Bladder Cancer Evolution: Population genetics-based modeling of Whole-Organ Mapping Data*, ECCB 2023, Lyon, France
-- **Kuś P.**, Kimmel M., *Investigating the Dynamics of Cancer Evolution: Variant Allele Frequency Patterns and Model Limitations*, IWBBIO 2023, Gran Canaria
-- **Kuś P.**, Kimmel M., *Sampling-oriented modelling of cancer evolution*, Gliwice Scientific Meetings 2022
+- **Kuś P.**, Chen H., Wei P., Czerniak B., Kimmel M., *Bladder Cancer Evolution: Population genetics-based modeling of Whole-Organ Mapping Data*, ECCB 2023, Lyon, France ([poster](https://www.researchgate.net/publication/375005483_Bladder_Cancer_Evolution_Population_genetics-based_modeling_of_Whole-Organ_Mapping_data))
+- **Kuś P.**, Kimmel M., *Investigating the Dynamics of Cancer Evolution: Variant Allele Frequency Patterns and Model Limitations*, IWBBIO 2023, Gran Canaria ([poster](https://www.researchgate.net/publication/375005384_Dynamics_of_Cancer_Evolution_assessment_of_models_based_on_Variant_Allele_Frequency_spectra))
+- **Kuś P.**, Kimmel M., *Sampling-oriented modelling of cancer evolution*, Gliwice Scientific Meetings 2022 ([poster](https://www.researchgate.net/publication/365615555_Sampling-oriented_modelling_of_cancer_evolution))
 - **Kuś P.**, Jaksik R., Kimmel M., *Analiza struktury klonalnej nowotworów - porównanie metod*, Computational Oncology and Personalized Medicine COPM2021 Conference, (online)
 - **Kuś P.**, Jaksik R., Kimmel M., Widlak, W., *Genomic action of estrogen receptor α in breast cancer patients may be enhanced by Heat Shock Factor 1*, The 5th Warsaw Conference on Perspectives of Molecular Oncology (2020) (online)
 - **Kuś P.**, Jaksik R., Kimmel M., *Measurement biases affecting RNA sequencing and methods of its normalization*, Bioinformatics in Torun 2019
