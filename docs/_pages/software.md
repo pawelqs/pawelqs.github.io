@@ -22,9 +22,10 @@ header:
 R package for modeling cancer evolution. Inspired by MOBSTER, fits mutation frequency spectra with a mixture of power-law and binomial distributions. Unlike MOBSTER, is able to fit models to whole exome sequencing data at the cost of lower model accuracy. Still being actively developed.
 
 
-### [readthis](https://github.com/pawelqs/readthis)
+### [readthis](https://github.com/pawelqs/readthis) <img src="https://github.com/pawelqs/readthis/raw/master/man/figures/logo.png" align="right" height="120" />
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/pawelqs/readthis/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/pawelqs/readthis/actions/workflows/R-CMD-check.yaml)
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
@@ -36,6 +37,7 @@ A helper package for [cevomod](https://pawelqs.github.io/cevomod/) ecosystem. Pr
 ### [boards](https://github.com/pawelqs/boards) <img src="https://github.com/pawelqs/boards/raw/master/man/figures/logo.png" align="right" height="120" />
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/pawelqs/boards/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/pawelqs/boards/actions/workflows/R-CMD-check.yaml)
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
