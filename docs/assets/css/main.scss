@@ -1,0 +1,13 @@
+---
+search: false
+---
+
+@charset "utf-8";
+
+// Widen the content column a bit (~70 -> ~80 characters per line at the
+// x-large breakpoint, where the page width is $max-width minus the
+// reserved right-sidebar width).
+$max-width: 1380px;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
