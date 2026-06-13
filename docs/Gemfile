@@ -9,23 +9,18 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-# gem "github-pages", group: :jekyll_plugins
-
-# To upgrade, run `bundle update`.
-
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
+gem "jekyll", "~> 4.3"
 gem "webrick", "~> 1.7"
-# gem 'jekyll-sass-converter', '~> 2.2'
 
-# The following plugins are automatically loaded by the theme-gem:
-#   gem "jekyll-paginate"
-#   gem "jekyll-sitemap"
-#   gem "jekyll-gist"
-#   gem "jekyll-feed"
-#   gem "jekyll-include-cache"
-#
-# If you have any other plugins, put them here!
-# Cf. https://jekyllrb.com/docs/plugins/installation/
+# Theme is loaded remotely via `remote_theme` in _config.yml (required for
+# GitHub Pages' built-in build), so we need its plugin to resolve it locally.
+gem "jekyll-remote-theme"
+
+# Plugins used by the theme/site, listed in _config.yml's `plugins:` section.
 group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+  gem "jekyll-include-cache"
 end

@@ -2,7 +2,7 @@
 layout: single
 title:  "My AI setup"
 date:   2026-06-12 11:47:58 +0200
-categories: ai
+categories: blog
 ---
 
 
